@@ -112,7 +112,7 @@ cursor: pointer;
 .invest_body{
   display: grid;
   place-items: center;
-  height: 80vh;
+  height: 90vh;
   background-image: linear-gradient(rgb(83, 0, 78), rgb(0, 0, 0));
 
 
